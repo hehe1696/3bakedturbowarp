@@ -1,0 +1,1 @@
+["START","LAYOUT 1","[\"GOAL 2\",\"GOAL 3\",\"GOAL 4\",\"GOAL 5\"]","LAYOUT 2","[\"GOAL 2\",\"GOAL 3\",\"GOAL 4\",\"GOAL 5\"]","LAYOUT 3","[\"GOAL 2\",\"GOAL 3\",\"GOAL 4\",\"GOAL 5\"]","LAYOUT 4","[\"GOAL 2\",\"GOAL 3\",\"GOAL 4\",\"GOAL 5\"]","LAYOUT 5","[\"GOAL 2\",\"GOAL 3\",\"GOAL 4\",\"GOAL 5\"]","LAYOUT 6","[\"GOAL 2\",\"GOAL 3\",\"GOAL 4\",\"GOAL 5\"]"]

@@ -1,0 +1,1 @@
+["{\"startSpeed\":\"40\"}","[\"bgm_main.m4a\",\"bgm_main2.m4a\",\"bgm_main3.m4a\"]"]
